@@ -74,6 +74,18 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc; /* Ensure bullet points are displayed */
+}
+
+.activity-card ul li {
+  margin-bottom: 5px;
+  color: #555; /* Set a subtle color for participant names */
+  font-size: 14px; /* Adjust font size for better readability */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
